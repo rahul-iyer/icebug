@@ -1,8 +1,8 @@
 <p align="center">
   <img width="60%" src="docs/logo/logo_color.jpg" alt="Icebug - Frozen Graph Analytics"><br>
-  <a href="https://github.com/Ladybug-Memory/icebug/actions"><img src="https://github.com/Ladybug-Memory/icebug/workflows/build/badge.svg"></a>
+  <a href="https://github.com/Ladybug-Memory/icebug/actions/workflows/ci-matrix.yml"><img src="https://github.com/Ladybug-Memory/icebug/actions/workflows/ci-matrix.yml/badge.svg?branch=main"></a>
   <a href="https://badge.fury.io/py/icebug"><img src="https://badge.fury.io/py/icebug.svg"></a>
-  <a href="https://coveralls.io/github/Ladybug-Memory/icebug?branch=master"><img src="https://coveralls.io/repos/github/Ladybug-Memory/icebug/badge.svg?branch=master"></a>
+  <a href="https://coveralls.io/github/Ladybug-Memory/icebug?branch=main"><img src="https://coveralls.io/repos/github/Ladybug-Memory/icebug/badge.svg?branch=main"></a>
   <a href="https://mybinder.org/v2/gh/networkit/networkit/master?urlpath=lab/tree/notebooks/User-Guide.ipynb"><img src="https://mybinder.org/badge_logo.svg"></a>
 </p>
 
